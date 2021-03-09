@@ -1,0 +1,57 @@
+body{
+  background-image:url("sfondo.jpg")
+  }
+
+.contenitore{
+  width: 700px;
+  margin: auto;
+  text-align: center;
+  padding: 70px;
+  background-color:rgba(0, 0, 0, 0.7);
+  opacity: 0,5;
+  color: white;
+  font-family: Arial;
+}
+
+/* Header */
+.logo{
+  width: 200px
+}
+.logo-text{
+  font-size: 25px;
+  color:#00ff00;
+}
+
+/* Nav */
+.row{
+  background-color: #00ff00;
+  line-height: 30px;
+  padding: 5px;
+}
+
+/* main */
+main{
+  text-align: left;
+  font-size: 12px;
+}
+.Gino{
+  display: inline-block;
+}
+span{
+font-size: 14px;
+}
+.color-row{
+  background-color:orange;
+  line-height: 30px;
+  width: 45%;
+}
+.green-color-row{
+  background-color:#66ff00;
+  line-height: 30px;
+  width: 85%;
+}
+.red-color-row{
+  background-color:red;
+  line-height: 30px;
+  width: 25%;
+}
